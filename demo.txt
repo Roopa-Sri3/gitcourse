@@ -1,4 +1,6 @@
 Hello 
 Welcome to
 git demo.
+Git checkout command is used to sitch the branches
+
 
